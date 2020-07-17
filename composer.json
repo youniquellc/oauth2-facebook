@@ -1,5 +1,5 @@
 {
-    "name": "youniquellc/oauth2-facebook",
+    "name": "younique/oauth2-facebook",
     "description": "Facebook OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
     "license": "MIT",
     "authors": [
